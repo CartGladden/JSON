@@ -15,12 +15,12 @@
     {
       "section": "Section B",
       "section_code": "T230",
-      "buksuemail": "1901102143@student.buksu.edu.ph"
+      "buksu_email": "1901102143@student.buksu.edu.ph"
     },
     {
       "section": "Section A",
       "section_code": "T221",
-      "buksuemail": "cartbandong@student.buksu.edu.ph"
+      "buksu_email": "cartbandong@student.buksu.edu.ph"
     }
   ]
 }
