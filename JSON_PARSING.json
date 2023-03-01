@@ -5,11 +5,6 @@
       "age": 21,
       "quotes": "Music is the closent thing to have a time machine."
     },
-    {
-      "name": "Lelouch Vi Britannia IV",
-      "age": 17,
-      "quotes": "To defeat evil, I must become a greater evil.”"
-    }
   ],
   "student_info": [
     {
@@ -17,10 +12,5 @@
       "section_code": "T230",
       "email": "1901102143@student.buksu.edu.ph"
     },
-    {
-      "section": "Section A",
-      "section_code": "T221",
-      "email": "cartbandong@student.buksu.edu.ph"
-    }
   ]
 }
