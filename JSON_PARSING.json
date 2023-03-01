@@ -13,12 +13,12 @@
   ],
   "studentinfo": [
     {
-      "classsection": "Section B",
+      "section": "Section B",
       "sectioncode": "T230",
       "buksuemail": "1901102143@student.buksu.edu.ph"
     },
     {
-      "classsection": "Section A",
+      "section": "Section A",
       "sectioncode": "T221",
       "buksuemail": "cartbandong@student.buksu.edu.ph"
     }
