@@ -1,0 +1,26 @@
+{
+  "students": [
+    {
+      "name": "Cart Gladden V. Bandong",
+      "age": 21,
+      "quotes": "Music is the closent thing to have a time machine."
+    },
+    {
+      "name": "Lelouch Vi Britannia IV",
+      "age": 17,
+      "quotes": "To defeat evil, I must become a greater evil.”"
+    }
+  ],
+  "studentinfo": [
+    {
+      "classsection": "Section B",
+      "sectioncode": "T230",
+      "buksuemail": "1901102143@student.buksu.edu.ph"
+    },
+    {
+      "classsection": "Section A",
+      "sectioncode": "T221",
+      "buksuemail": "cartbandong@student.buksu.edu.ph"
+    }
+  ]
+}
